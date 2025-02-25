@@ -12,7 +12,7 @@ This project follows a **monolithic architecture**, where all components (model,
 - **Deep Learning**: TensorFlow, CNN  
 - **Backend**: Flask, Flask-Cors  
 - **Frontend**: HTML, CSS, JavaScript  
-- **Data Processing**: Pandas, NumPy, OpenCV  
+- **Data Processing**: Pandas, NumPy 
 - **Version Control**: DVC, MLflow  
 - **Deployment**: Flask Server  
 ## 🛠️ Setup & Installation 
